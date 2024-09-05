@@ -10,7 +10,7 @@ To run the analysis, ensure the following:
 1. **Python 3.11** and **RStudio 4** is installed on your system.
 2. Install the required libraries by running the following command:
    ```bash
-   pip install pandas json numpy matplotlib seaborn collections
+   pip install pandas numpy matplotlib seaborn
 
 ### Reproduction instructions
 Navigate to each Jupyter notebook and run the cells sequentially. The code will generate the necessary results and 
