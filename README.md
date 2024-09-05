@@ -11,6 +11,7 @@ To run the analysis, ensure the following:
 2. Install the required libraries by running the following command:
    ```bash
    pip install pandas json numpy matplotlib seaborn collections
-   
+
+### Reproduction instructions
 Navigate to each Jupyter notebook and run the cells sequentially. The code will generate the necessary results and 
 visualizations for the ripple effects analysis.
